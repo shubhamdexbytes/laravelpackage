@@ -11,5 +11,10 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devdojo\\Calculator\\": "src"
+        }
     }
 }

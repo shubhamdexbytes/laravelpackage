@@ -1,7 +1,7 @@
 {
     "name": "dexbytes/calculator",
     "description": "This is a demo package for calculator",
-    "license": "1.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dexbytes Technology",

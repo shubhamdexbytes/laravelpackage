@@ -1,8 +1,7 @@
 {
-    "name": "dexbytes/calculator",
+    "name": "devdojo/calculator",
     "description": "This is a demo package for calculator",
     "keywords": ["laravel", "calculator"],
-    "homepage": "",
     "license": "MIT",
     "authors": [
       {
@@ -11,7 +10,7 @@
       }
     ],
     "require": {
-      "php": ">=7.1.0",
+      "php": ">=5.1.0",
       "illuminate/config": "~5.0",
       "illuminate/support": "~5.0"
     },

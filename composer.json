@@ -19,9 +19,11 @@
     },
     "autoload": {
       "psr-4": {
-      "Devdojo\\Calculator\\": "src" 
+        "Devdojo\\Calculator\\": "src" 
       }
     },
     "minimum-stability": "dev",
     "prefer-stable": true
   }
+
+

@@ -22,6 +22,18 @@
         "Devdojo\\Calculator\\": "src" 
       }
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    "extra": {
+      "branch-alias": {
+          "dev-master": "0.8-dev"
+      },
+      "laravel": {
+          "providers": [
+              "Devdojo\\Calculator\\CalculatorServiceProvider"
+          ],
+          "aliases": {
+              "PDF": "Devdojo\\Calculator\\Facade"
+          }
+      }
+  },
+  "minimum-stability": "dev"
   }
